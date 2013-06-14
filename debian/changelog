@@ -1,0 +1,5 @@
+vx-edu-migasfree-client (1.0-1) unstable; urgency=low
+
+  * divert de /etc/migasfree.conf
+
+ -- Alberto Gacias <alberto@migasfree.org>  Fri, 14 Jun 2013 22:56:47 +0200
