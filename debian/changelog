@@ -1,9 +1,15 @@
+vx-edu-migasfree-client (1.0-3) unstable; urgency=low
+
+  * Changed package description
+
+ -- Alberto Gacias <alberto@migasfree.org>  Fri, 13 Dec 2013 19:30:47 +0200
+
 vx-edu-migasfree-client (1.0-2) unstable; urgency=low
 
   * convert this package to virtual (virtual-migasfree-client)
   * remove migasfree-keys
 
- -- Alberto Gacias <alberto@migasfree.org>  Tue, 03 Dic 2013 17:03:47 +0200
+ -- Alberto Gacias <alberto@migasfree.org>  Tue, 03 Dec 2013 17:03:47 +0200
 
 vx-edu-migasfree-client (1.0-1) unstable; urgency=low
 
