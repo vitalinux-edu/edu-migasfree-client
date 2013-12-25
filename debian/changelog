@@ -1,3 +1,9 @@
+vx-edu-migasfree-client (1.0-4) unstable; urgency=low
+
+  * Delete Keys to purge package
+
+ -- Alberto Gacias <alberto@migasfree.org>  Fri, 25 Dec 2013 09:11:47 +0200
+
 vx-edu-migasfree-client (1.0-3) unstable; urgency=low
 
   * Changed package description
