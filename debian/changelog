@@ -1,23 +1,29 @@
-vx-edu-migasfree-client (1.0-4) unstable; urgency=low
+edu-migasfree-client (1.1-1) unstable; urgency=low
+
+  * Cambio de nombre del paquete (por cambio de repositorio/proyecto)
+
+ -- Jose Antonio Chavarría <jachavar@gmail.com>  Sat, 11 Jan 2014 11:25:47 +0200
+
+edu-migasfree-client (1.0-4) unstable; urgency=low
 
   * Delete Keys to purge package
 
  -- Alberto Gacias <alberto@migasfree.org>  Fri, 25 Dec 2013 09:11:47 +0200
 
-vx-edu-migasfree-client (1.0-3) unstable; urgency=low
+edu-migasfree-client (1.0-3) unstable; urgency=low
 
   * Changed package description
 
  -- Alberto Gacias <alberto@migasfree.org>  Fri, 13 Dec 2013 19:30:47 +0200
 
-vx-edu-migasfree-client (1.0-2) unstable; urgency=low
+edu-migasfree-client (1.0-2) unstable; urgency=low
 
   * convert this package to virtual (virtual-migasfree-client)
   * remove migasfree-keys
 
  -- Alberto Gacias <alberto@migasfree.org>  Tue, 03 Dec 2013 17:03:47 +0200
 
-vx-edu-migasfree-client (1.0-1) unstable; urgency=low
+edu-migasfree-client (1.0-1) unstable; urgency=low
 
   * divert de /etc/migasfree.conf
 
