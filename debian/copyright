@@ -1,5 +1,5 @@
 Format: http://dep.debian.net/deps/dep5
-Upstream-Name: vx-edu-migasfree-client
+Upstream-Name: edu-migasfree-client
 
 Files: * debian/*
 Copyright: 2013 Alberto Gacías <alberto@migasfree.org>

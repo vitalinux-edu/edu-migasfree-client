@@ -1,5 +1,5 @@
 #!/bin/sh
-# postrm script for vx-edu-migasfree-client
+# postrm script for edu-migasfree-client
 #
 # see: dh_installdeb(1)
 
@@ -21,15 +21,13 @@ set -e
 
 case "$1" in
     remove)
-            vx-divert-remove vx-edu-migasfree-client
+        vx-divert-remove edu-migasfree-client
     ;;
 
     purge)
-
-            # remove migasfree-keys
-            rm /root/.migasfree-keys/migasfree-client.pri || :
-            rm /root/.migasfree-keys/migasfree-server.pub || :
-
+        # remove migasfree-keys
+        rm /root/.migasfree-keys/migasfree-client.pri || :
+        rm /root/.migasfree-keys/migasfree-server.pub || :
     ;;
 
     upgrade|failed-upgrade|abort-install|abort-upgrade|disappear)

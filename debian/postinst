@@ -1,5 +1,5 @@
 #!/bin/sh
-# postinst script for vx-edu-migasfree-client
+# postinst script for edu-migasfree-client
 #
 # see: dh_installdeb(1)
 
@@ -21,8 +21,7 @@ set -e
 case "$1" in
     configure)
         # configuration change migasfree-client package
-        vx-divert-add vx-edu-migasfree-client
-
+        vx-divert-add edu-migasfree-client
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
